@@ -124,4 +124,4 @@ print(final(dictvaga1, dictvaga2, quanti_cand1, quanti_cand2))
 <sub>***Cria-se a função 'final' que recebe como argumentos os dicionários atualizados e as variáveis que guardam a quantidade de pessoas aptas pelos seus currículos a cada uma das vagas. O procedimento, ao ser chamado, encerra o código exibindo as candidaturas totais, quantas pessoas estão inscritas em cada vaga e quantas tem o resumo/minibio com as palavras que foram buscadas.***</sub>
 
 
-############################################################################################################ 
+########################################################################################################### 
